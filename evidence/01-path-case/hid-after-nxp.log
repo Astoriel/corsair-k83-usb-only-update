@@ -1,0 +1,2 @@
+CreateFileW succeeded, desired access=0, OPEN_EXISTING
+HidD_GetIndexedString(4) returned TRUE, value: 'P05'

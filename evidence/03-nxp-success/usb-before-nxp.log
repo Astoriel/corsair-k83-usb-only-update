@@ -1,0 +1,71 @@
+Microsoft PnP Utility
+
+Instance ID:                USB\VID_1B1C&PID_1B42&MI_00\6&<USB-INSTANCE>&0&0000
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+Parent:                     USB\VID_1B1C&PID_1B42\<K83-SERIAL>
+Children:                   HID\VID_1B1C&PID_1B42&MI_00&Col01\7&<HID00>&0&0000
+                            HID\VID_1B1C&PID_1B42&MI_00&Col02\7&<HID00>&0&0001
+                            HID\VID_1B1C&PID_1B42&MI_00&Col03\7&<HID00>&0&0002
+                            HID\VID_1B1C&PID_1B42&MI_00&Col04\7&<HID00>&0&0003
+                            HID\VID_1B1C&PID_1B42&MI_00&Col05\7&<HID00>&0&0004
+                            HID\VID_1B1C&PID_1B42&MI_00&Col06\7&<HID00>&0&0005
+
+Microsoft PnP Utility
+
+Instance ID:                USB\VID_1B1C&PID_1B42&MI_01\6&<USB-INSTANCE>&0&0001
+Device Description:         USB Input Device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+Parent:                     USB\VID_1B1C&PID_1B42\<K83-SERIAL>
+Children:                   HID\VID_1B1C&PID_1B42&MI_01\7&<HID01>&0&0000
+
+Microsoft PnP Utility
+
+Instance ID:                HID\VID_1B1C&PID_1B42&MI_00&Col05\7&<HID00>&0&0004
+Device Description:         HID-compliant vendor-defined device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+Hardware IDs:               HID\VID_1B1C&PID_1B42&REV_0313&MI_00&Col05
+                            HID\VID_1B1C&PID_1B42&MI_00&Col05
+                            HID\VID_1B1C&UP:FFC2_U:0003
+                            HID_DEVICE_UP:FFC2_U:0003
+                            HID_DEVICE_UPR:FF00-FFFF
+                            HID_DEVICE
+Interfaces:
+    Interface Path:         \\?\HID#VID_1B1C&PID_1B42&MI_00&Col05#7&<HID00>&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+    Interface Description:  Unknown
+    Interface Class GUID:   {4d1e55b2-f16f-11cf-88cb-001111000030}
+    Interface Status:       Enabled
+
+Microsoft PnP Utility
+
+Instance ID:                HID\VID_1B1C&PID_1B42&MI_01\7&<HID01>&0&0000
+Device Description:         HID-compliant vendor-defined device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+Hardware IDs:               HID\VID_1B1C&PID_1B42&REV_0313&MI_01
+                            HID\VID_1B1C&PID_1B42&MI_01
+                            HID\VID_1B1C&UP:FFC2_U:0004
+                            HID_DEVICE_UP:FFC2_U:0004
+                            HID_DEVICE_UPR:FF00-FFFF
+                            HID_DEVICE
+Interfaces:
+    Interface Path:         \\?\HID#VID_1B1C&PID_1B42&MI_01#7&<HID01>&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+    Interface Description:  Unknown
+    Interface Class GUID:   {4d1e55b2-f16f-11cf-88cb-001111000030}
+    Interface Status:       Enabled
+

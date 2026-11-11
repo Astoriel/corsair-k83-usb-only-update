@@ -1,0 +1,11 @@
+# Local vendor files and private diagnostics
+/local/
+/runs/
+*.bin
+*.zip
+*.exe
+*.dll
+*.dmp
+__pycache__/
+.env
+.env.*

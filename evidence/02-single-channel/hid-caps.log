@@ -1,0 +1,10 @@
+Enabled matching HID paths: 2
+PATH \\?\HID#VID_1B1C&PID_1B42&MI_00&Col05#7&<HID00>&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+  VID:PID=1B1C:1B42
+  UsagePage=0xFFC2 Usage=0x0003
+  Input=64 Output=0 Feature=0 bytes
+PATH \\?\HID#VID_1B1C&PID_1B42&MI_01#7&<HID01>&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+  VID:PID=1B1C:1B42
+  UsagePage=0xFFC2 Usage=0x0004
+  Input=65 Output=65 Feature=65 bytes
+Indexed queries issued: 0

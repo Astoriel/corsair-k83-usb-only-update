@@ -1,0 +1,10 @@
+DD: tryOpen: Failed to open \\?\hid#vid_1b1c&pid_1b42&mi_00&col02#7&<HID00>&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}: 32
+DD: tryOpne: Device was already opened, closing \\?\hid#vid_1b1c&pid_1b42&mi_00&col03#7&<HID00>&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+DD: tryOpne: Device was already opened, closing \\?\hid#vid_1b1c&pid_1b42&mi_00&col04#7&<HID00>&0&0003#{4d1e55b2-f16f-11cf-88cb-001111000030}
+DD: tryOpen: Failed to open \\?\hid#vid_1b1c&pid_1b42&mi_02&col01#7&<HID02>&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}: 32
+DD: tryOpen: Failed to open \\?\hid#vid_1b1c&pid_1b42&mi_02&col02#7&<HID02>&0&0001#{4d1e55b2-f16f-11cf-88cb-001111000030}: 32
+DD: tryOpne: Device was already opened, closing \\?\hid#vid_1b1c&pid_1b42&mi_02&col03#7&<HID02>&0&0002#{4d1e55b2-f16f-11cf-88cb-001111000030}
+DD: tryOpne: Device was already opened, closing \\?\hid#vid_1b1c&pid_1b42&mi_00&col05#7&<HID00>&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+DD: tryOpne: Device was already opened, closing \\?\hid#vid_1b1c&pid_1b42&mi_01#7&<HID01>&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+DD: tryOpen: Failed to open \\?\hid#vid_1b1c&pid_1b42&mi_00&col01#7&<HID00>&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}\kbd: 5
+DD: tryOpen: Failed to open \\?\hid#vid_1b1c&pid_1b42&mi_00&col06#7&<HID00>&0&0005#{4d1e55b2-f16f-11cf-88cb-001111000030}: 5

@@ -1,0 +1,11 @@
+Started: 2026-11-10T00:28:22.1680348+01:00
+Updater: <CORSAIR-INSTALL>\CorsairFWUpd.exe
+--usb-vid=1b1c
+--usb-pid=1b42
+--hid-up=ffc2
+--path=\\?\hid#vid_1b1c&pid_1b42&mi_00&col05#7&<HID00>&0&0004#{4d1e55b2-f16f-11cf-88cb-001111000030}
+--path=\\?\hid#vid_1b1c&pid_1b42&mi_01#7&<HID01>&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+--image=C:\Users\<USER>\<LOCAL-PROJECT>\Corsair-K83-3.26\Sunder_D_2_App_v3.26.52.bin
+PID: 12152
+Exit code: 0
+Finished: 2026-11-10T00:30:16.7806830+01:00

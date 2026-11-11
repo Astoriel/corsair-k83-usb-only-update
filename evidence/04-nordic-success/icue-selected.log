@@ -1,0 +1,5 @@
+368:2026-11-10T00:31:07 I cue.devices: Initialized true "K83 WIRELESS" (vid=1b1c, pid=1b42)
+430:2026-11-10T00:31:07 C cue.devices: Unknown command in NxpPhysicalHidDevice: AbstractCommand::GetSecondaryChipFirmwareVersion
+434:2026-11-10T00:31:07 C cue.devices: Unknown command in NxpPhysicalHidDevice: AbstractCommand::GetSecondaryChipFirmwareVersion
+437:2026-11-10T00:31:08 I cue.firmware.index: "K83 WIRELESS" no newer FW version was found, selecting package with maximal verion
+438:2026-11-10T00:31:08 I cue.firmware.index: "K83 WIRELESS" no newer FW version was found, package: QJsonObject({"depends-on":"K83WIRELESS-isp-3.26","integrity":"sha512-6S+PYda1Mu0zYjw2OBYDq9g7j6kWv1Lpyz6EV7SiyIkhKT019b1huopXzv3MIdI5O7d/IIzxjXsLQu5JNwai7Q==","provides":{"application":"3.26"},"release-date":"2020-05-14T15:30:00.000Z","requires":{"bootloader":">=3.3"},"source":"K83WIRELESS.zip","version":"2.0"})

@@ -1,0 +1,74 @@
+{
+  "model": "Corsair K83 Wireless",
+  "experiment_date": "2026-11-10",
+  "keyboard_usb_vid": "1b1c",
+  "keyboard_usb_pid": "1b42",
+  "receiver_usb_pid": "1b6d",
+  "protocol": "P05",
+  "initial_application": "3.13",
+  "target_application": "3.26",
+  "bootloader_recorded_by_icue": "3.3",
+  "package_index_integrity": "sha512-6S+PYda1Mu0zYjw2OBYDq9g7j6kWv1Lpyz6EV7SiyIkhKT019b1huopXzv3MIdI5O7d/IIzxjXsLQu5JNwai7Q==",
+  "package_index_depends_on": "K83WIRELESS-isp-3.26",
+  "package_index_bootloader_requirement": ">=3.3",
+  "original_source_url": "https://www3.corsair.com/software/CUE_V3/K83WIRELESS.zip",
+  "source_url_contents_can_change": true,
+  "updater": {
+    "name": "CorsairFWUpd.exe",
+    "file_version": "3.38.88.0",
+    "sha256": "380b3f1b38e25214960db1bf5fa3eee43d570898b4183b04ef10e4d08c343244"
+  },
+  "other_examined_binaries": [
+    {
+      "name": "CorsairFwUpdMc.exe",
+      "file_version": "3.38.88.0",
+      "sha256": "0df8659e8a67cf320e32251c74057114f084cfb59fd747ec60da6632c32be94f"
+    },
+    {
+      "name": "iCUE.dll",
+      "file_version": "3.38.88.0",
+      "sha256": "1234a0602878f25d9470eedfec41dc17dee607b9e62ca10efefe163a1931c99f"
+    }
+  ],
+  "files": [
+    {
+      "name": "K83WIRELESS.zip",
+      "size": 208624,
+      "sha256": "5fc11252ec919926db73df7c8a1323a9d9d96a35de6fb0b1ce9a5f0108c01db6",
+      "sha512": "e92f8f61d6b532ed33623c36381603abd83b8fa916bf52e9cb3e8457b4a2c88921293d35f5bd61ba8a57cefdcc21d2393bb77f208cf18d7b0b42ee493706a2ed",
+      "role": "original-archive"
+    },
+    {
+      "name": "Sunder_D_1_App_v3.26.52.bin",
+      "size": 83184,
+      "crc32": "9caa6ff8",
+      "sha256": "595f9fa0cc4889204ba1e1792455e2fb1901693e0111cb12f73463e3f7313ebe",
+      "stage": "NXP",
+      "marker_offset": "0x100",
+      "marker_prefix_hex": "40401c1b421b2603"
+    },
+    {
+      "name": "Sunder_D_2_App_v3.26.52.bin",
+      "size": 181104,
+      "crc32": "9c8ddb81",
+      "sha256": "9cceb9c91a1eea796825296bb3b0ce6d594988c47ddd57d31d4503171023573b",
+      "stage": "NORDIC",
+      "marker_offset": "0x1b100",
+      "marker_prefix_hex": "23231c1b421b2603"
+    },
+    {
+      "name": "Sunder_U_1_App_v3.26.52.bin",
+      "size": 24684,
+      "crc32": "c3718b13",
+      "sha256": "27e0cf3d346a2724f4045c974befbe992d916bfa0929f4aa2f9d94776eb0b383",
+      "role": "receiver-not-flashed"
+    },
+    {
+      "name": "Sunder_U_2_App_v3.26.52.bin",
+      "size": 24108,
+      "crc32": "3c0736ae",
+      "sha256": "68a10c7fee4d7db467aac6c7701dcd891dbc6721b879939dd313722fd5ad0426",
+      "role": "receiver-not-flashed"
+    }
+  ]
+}

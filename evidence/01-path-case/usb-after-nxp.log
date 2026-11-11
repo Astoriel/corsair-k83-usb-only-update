@@ -1,0 +1,39 @@
+Captured: 2026-11-10T00:16:24.7038214+01:00
+Microsoft PnP Utility
+
+Instance ID:                USB\VID_1B1C&PID_1B42\<K83-SERIAL>
+Device Description:         USB Composite Device
+Class Name:                 USB
+Class GUID:                 {36fc9e60-c465-11cf-8056-444553540000}
+Manufacturer Name:          (Standard USB Host Controller)
+Status:                     Started
+Driver Name:                usb.inf
+Parent:                     USB\ROOT_HUB30\4&<USB-ROOT>&0&0
+Children:                   USB\VID_1B1C&PID_1B42&MI_00\6&<USB-INSTANCE>&0&0000
+                            USB\VID_1B1C&PID_1B42&MI_01\6&<USB-INSTANCE>&0&0001
+                            USB\VID_1B1C&PID_1B42&MI_02\6&<USB-INSTANCE>&0&0002
+
+Microsoft PnP Utility
+
+Instance ID:                HID\VID_1B1C&PID_1B42&MI_01\7&<HID01>&0&0000
+Device Description:         HID-compliant vendor-defined device
+Class Name:                 HIDClass
+Class GUID:                 {745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+Manufacturer Name:          (Standard system devices)
+Status:                     Started
+Driver Name:                input.inf
+Hardware IDs:               HID\VID_1B1C&PID_1B42&REV_0313&MI_01
+                            HID\VID_1B1C&PID_1B42&MI_01
+                            HID\VID_1B1C&UP:FFC2_U:0004
+                            HID_DEVICE_UP:FFC2_U:0004
+                            HID_DEVICE_UPR:FF00-FFFF
+                            HID_DEVICE
+Interfaces:
+    Interface Path:         \\?\HID#VID_1B1C&PID_1B42&MI_01#7&<HID01>&0&0000#{4d1e55b2-f16f-11cf-88cb-001111000030}
+    Interface Description:  Unknown
+    Interface Class GUID:   {4d1e55b2-f16f-11cf-88cb-001111000030}
+    Interface Status:       Enabled
+
+Microsoft PnP Utility
+
+No devices were found on the system.
